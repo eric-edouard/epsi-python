@@ -1,0 +1,12 @@
+Write a program that asks for the user input:
+
+- left operand
+- operator (+, -, * and /)
+- right operand
+
+separated by one or more spaces.
+
+Given this mathematical operation, your program should display the result, and 
+then prompt the user again for another operation.
+
+The program should allow for a graceful exit method.

@@ -1,0 +1,4 @@
+Now, write a connect-4 game in Python.
+
+You decided wether the game is playable in PVP or PvC (or both)
+The script should handle most error cases (such as invalid input)

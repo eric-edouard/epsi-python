@@ -1,0 +1,2 @@
+Write a python script that displays all files and folders as well as their subfiles and subfolders,
+similar to the unix command "tree"
