@@ -14,6 +14,7 @@ If the variable is reassigned to a number, your script  should not display anyth
 school = "EPSI"
 
 # INSERT YOUR CONDITION HERE.
+# Your condition should ,
 # The condition should be true and you should print "The variable is a string".
 
 
