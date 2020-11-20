@@ -5,11 +5,11 @@ This class shall have a method sum() which takes no parameters and returns the s
 """
 
 class NumberList(list):
-	
+    
 	def sum(self):
 		return sum(self)
-
-liste = NumberList([2, 24, 25, 4])
+ 
+liste = NumberList([2, 23, 4])
 
 print(liste)
 print(liste.sum())
