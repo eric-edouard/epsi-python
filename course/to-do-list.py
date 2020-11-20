@@ -5,7 +5,7 @@ class ToDoList():
         self.todos = []
 
     def add_todo(self, task):
-        self.todos.append({'is_done': False, 'task': task})
+        self.todos.append({ 'is_done': False, 'task': task })
 
     def remove_todo(self, index):
         del self.todos[index]
