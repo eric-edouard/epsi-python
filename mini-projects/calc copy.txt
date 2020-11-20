@@ -1,0 +1,16 @@
+Write a python program that can manage your websites passwords.
+
+A set of crendentials must have at least 3 properties: 
+	- The name of the website
+	- the username / email
+	- the password
+
+Your script you make use of classes and you should use seperation of concerns as much as possible.
+
+BASIC features:
+- Adding, removing and updating passwords through the CLI
+- Persistence of the passwords on the hard drive
+
+ADVANCED features:
+- Encryption of the passwords with a "master password" (this can be done with the module pyAesCrypt)
+- Graphical user interface with the module TkInter
